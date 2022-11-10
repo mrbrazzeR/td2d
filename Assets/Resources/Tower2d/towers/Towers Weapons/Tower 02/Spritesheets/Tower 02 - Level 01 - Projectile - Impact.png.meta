@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tower 02 - Level 01 - Projectile - Impact_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 26
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e16fc59d849a041ab29f457d1028de
+      internalID: -615824093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 02 - Level 01 - Projectile - Impact_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9cd66789b56e4b9df7cb822c9d8ac
+      internalID: 308835978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 02 - Level 01 - Projectile - Impact_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 18
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8b74e0c618c9a48b8128b5a516a600
+      internalID: -490822273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 02 - Level 01 - Projectile - Impact_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 30
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41422555237d941934be976b64db1d
+      internalID: 1106227044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +234,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tower 02 - Level 01 - Projectile - Impact_2: -928071684
+      Tower 02 - Level 01 - Projectile - Impact_8: 703043855
+      Tower 02 - Level 01 - Projectile - Impact_6: -495906843
+      Tower 02 - Level 01 - Projectile - Impact_0: -615824093
+      Tower 02 - Level 01 - Projectile - Impact_4: -2067608617
+      Tower 02 - Level 01 - Projectile - Impact_3: -490822273
+      Tower 02 - Level 01 - Projectile - Impact_1: 308835978
+      Tower 02 - Level 01 - Projectile - Impact_7: -140856220
+      Tower 02 - Level 01 - Projectile - Impact_5: 1106227044
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
