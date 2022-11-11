@@ -6,19 +6,19 @@ namespace Enemies
     public class NavMeshEnemies : MonoBehaviour
     {
         [SerializeField] private Transform target;
-        private NavMeshAgent navMeshAgent;
+        [SerializeField]private NavMeshAgent navMeshAgent;
         // Start is called before the first frame update
         void Start()
         {
             navMeshAgent = GetComponent<NavMeshAgent>();
-            navMeshAgent.updatePosition = false;
+            navMeshAgent.updateRotation = false;
             navMeshAgent.updateUpAxis = false;
         }
 
         // Update is called once per frame
         void Update()
         {
-            navMeshAgent.SetDestination(transform.position);
+            navMeshAgent.SetDestination(target.position);
         }
     }
 }
