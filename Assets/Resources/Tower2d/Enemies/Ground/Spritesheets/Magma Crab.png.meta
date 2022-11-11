@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,1645 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Magma Crab_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 516
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777c6149cda508e48866c0e3bc8f4773
+      internalID: -1676252596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 516
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8304f66b2ae0efc43bdbb4a1b5dca140
+      internalID: -1767686826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 516
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6f200128691c449b2c871639585b1a
+      internalID: -127002510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 516
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c2080434e5fad4bb9bb1ceb4365a4b
+      internalID: -221689312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 515
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a536fcb942c84a86600ded3bbb2ac
+      internalID: 1522236952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 515
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87922ac34fb1e944ebacd7528e4d0bfc
+      internalID: -292425294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 515
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9974afa7db52f49a440c284762e83e
+      internalID: 2088133076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 515
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ca2c7116937349b3062abb6002c30
+      internalID: 33090720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 457
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d9f9ef3882ec48b49be7a6bf4e7bc
+      internalID: 1351216963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 457
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e04940b840f014f9ebc1389298acd8
+      internalID: -501863757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 457
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0885f3fee13a1b46a873c527dd93f1a
+      internalID: 1730197876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 457
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b755b3e67ab5c4ea07aa6e8807faa6
+      internalID: -1974647343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 456
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5bdc60f6f4aa7429b1c9820e439614
+      internalID: 1477171000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 456
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf949af57e5eca4c9ddb5cc7c1763e4
+      internalID: -834908309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 456
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c946f8ac997cd4e9e99bb4ac836572
+      internalID: 503847261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 456
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f326fa1cb11654e9810a59b086678a
+      internalID: 1087769849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 398
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d503567e0f96c384891aee5f9792ef0c
+      internalID: 1524672432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 398
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a50d877e48be940b62e35663932473
+      internalID: 1632076036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 398
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8fc3ae1da54b4cae5d33588d6e0e2
+      internalID: -1630594211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 398
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49850ce575240124db226308803aba86
+      internalID: 1813073162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 397
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa235a1ba756f4b4ca5755890ba43027
+      internalID: -638863515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 397
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c36dae49e8f84788d6d04ca420e58
+      internalID: -186871710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 397
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da249736ed9857045ad73d2280f7dc70
+      internalID: -846630082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 397
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcbaf10e71adf54badbf4bb729d93f8
+      internalID: -1061355952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 324
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fc45ab3993ad6459efd3937bc048f8
+      internalID: 1453753085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 324
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb2adebf8469084fa5882ba0a009a67
+      internalID: 1508567527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 324
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7051496e56b30704d927fecc9cad6c1d
+      internalID: -1967381066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 324
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02a953ece7b002409c21e16ae0c4f86
+      internalID: -1606185801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 323
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd4c49efb4fcb4439852e4634d3c422
+      internalID: 1091752946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 323
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d96f281f2b3b62408419ea127e8854b
+      internalID: -1133622299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 323
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a405c1550c3374eb1ba171a22b8b67
+      internalID: -777178315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 323
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e93c2316253841bb1e5fd69494e5a
+      internalID: -411344303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 265
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cc2e6d7939c8e4aaf9b44ded25f7d0
+      internalID: 835730220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 265
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b1852c25f5df4f9fe4372df2eb0c5
+      internalID: 218129770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_34
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 265
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740000161be9ff40a36ef01dae4d4c2
+      internalID: 1599861156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 265
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb0e3929bd21c449434c349ffb9f8c
+      internalID: 278978881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_36
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 264
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5a2a2a33e17174cbd756b3f1ac9d73
+      internalID: 1294180647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 264
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4943e79b7800645b2e656ba9f07412
+      internalID: -1920429185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 264
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563038bded3baa142aae0ed678d27bf5
+      internalID: -606196198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 264
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48519dcb619ff14495b0427d7ff34f8
+      internalID: 1787280189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a8de1f07bd8649bc0aa2fb8d72f15
+      internalID: 541546630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 206
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe0c1e04d8b5dd41975e3a344fb1f3f
+      internalID: -2123306202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 206
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d5327c36d9e964085c0b8e05fbf0f7
+      internalID: -1738567328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 206
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cccbb81e27cc284ea446fcbf5553da1
+      internalID: 1352080972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 205
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b436cd4f7e7c649afb67ad5d276619
+      internalID: 1297940318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_45
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 205
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8735471c9a1acc34db6297c7a9aa5eb1
+      internalID: 924809050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_46
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 205
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d5ba6ce4c8ccc488dd32459a0e709c
+      internalID: 2109445744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 205
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12076ad18036ad54587309494382816a
+      internalID: -65224800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 132
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6001c13a5421438f2bed83fd83753
+      internalID: -938409074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 134
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271bbc8df00bc746a1f695801e20093
+      internalID: -1457840027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 134
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a998f6146391243927c9b13e69d644
+      internalID: 1678588568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 134
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1130d59f1db1b4892e06801b37bc38
+      internalID: 895745662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 130
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aaf61b29dedb847b245196e95ba98d
+      internalID: -1867035570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 130
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40756a48731dc4d90b4287c04d7ae0
+      internalID: 1244806282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_54
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 130
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a5999cd9234f34982c22ab419836c4
+      internalID: 2113930618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 130
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c26a466ce2a4a64cb54ae1d9215dd04
+      internalID: 585210793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_56
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 130
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ea5795b4480a4bb3e739007426caa
+      internalID: 684373666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_57
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 130
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a8ea7b03dd14243956d79f5b1607a7
+      internalID: 1518340631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 73
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfa498bf73d400448a2a83f5232f2b5
+      internalID: -1094538341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90902aad90bea044ba666f8cdf85028d
+      internalID: 1250943046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_60
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 74
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8755db882ffcde7459f1ed97ef2bd58e
+      internalID: -830621835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_61
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 74
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1856f761a3e24f4b82d851c3b29de25
+      internalID: 1734502473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_62
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 70
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0633a63b7b78448bbd8e9303f2ea3
+      internalID: 1258815609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_63
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 71
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282d06023c089a244983e7e084701c77
+      internalID: 942006933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 70
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355074b63c58ee498986a48e54e3b6b
+      internalID: -1314814092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_65
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 70
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3c8815b57274042b51b51c2d54e336
+      internalID: 920315810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_66
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 70
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03eda45588eb947a48b4d648bd9809
+      internalID: 509029286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_67
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 70
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88390020b988aa946a7df8b1634488ac
+      internalID: 843168139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0274950ffaf61b14d9df499a0742b128
+      internalID: -861324490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 14
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16119046506fd8e4f97af3297f45c84f
+      internalID: -1423467876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 15
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a422137454221ce4eb4641e40b6f1b29
+      internalID: -130573167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 15
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41325294507e5104fbf5a2628f1d356e
+      internalID: 1484143474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 9
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a179103691cf3354e8ce3ceb8ec1d4d0
+      internalID: 1993455269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_73
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 10
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84f04faf8cf7944a00ec527b5a7a01
+      internalID: 1929398844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_74
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 9
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c14fb80ecbe8c48ba3caa2c9811db7
+      internalID: -1571593335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 9
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3119cfd85ee3d164d80be13c3d335312
+      internalID: -519854104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_76
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 9
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a590bf125f8648bcc29d2caf9310a
+      internalID: -1465284576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma Crab_77
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 9
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4354b6814e7a9fa4bb4b6ab29ab06f46
+      internalID: 386489750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +1788,85 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magma Crab_9: -501863757
+      Magma Crab_8: 1351216963
+      Magma Crab_29: -1133622299
+      Magma Crab_10: 1730197876
+      Magma Crab_75: -519854104
+      Magma Crab_28: 1091752946
+      Magma Crab_48: -938409074
+      Magma Crab_52: -1867035570
+      Magma Crab_17: 1632076036
+      Magma Crab_14: 503847261
+      Magma Crab_2: -127002510
+      Magma Crab_20: -638863515
+      Magma Crab_27: -1606185801
+      Magma Crab_26: -1967381066
+      Magma Crab_22: -846630082
+      Magma Crab_35: 278978881
+      Magma Crab_44: 1297940318
+      Magma Crab_23: -1061355952
+      Magma Crab_41: -2123306202
+      Magma Crab_65: 920315810
+      Magma Crab_53: 1244806282
+      Magma Crab_64: -1314814092
+      Magma Crab_66: 509029286
+      Magma Crab_76: -1465284576
+      Magma Crab_37: -1920429185
+      Magma Crab_16: 1524672432
+      Magma Crab_47: -65224800
+      Magma Crab_67: 843168139
+      Magma Crab_74: -1571593335
+      Magma Crab_70: -130573167
+      Magma Crab_54: 2113930618
+      Magma Crab_30: -777178315
+      Magma Crab_77: 386489750
+      Magma Crab_21: -186871710
+      Magma Crab_45: 924809050
+      Magma Crab_56: 684373666
+      Magma Crab_58: -1094538341
+      Magma Crab_18: -1630594211
+      Magma Crab_62: 1258815609
+      Magma Crab_68: -861324490
+      Magma Crab_39: 1787280189
+      Magma Crab_69: -1423467876
+      Magma Crab_50: 1678588568
+      Magma Crab_42: -1738567328
+      Magma Crab_25: 1508567527
+      Magma Crab_43: 1352080972
+      Magma Crab_6: 2088133076
+      Magma Crab_57: 1518340631
+      Magma Crab_31: -411344303
+      Magma Crab_7: 33090720
+      Magma Crab_63: 942006933
+      Magma Crab_33: 218129770
+      Magma Crab_73: 1929398844
+      Magma Crab_1: -1767686826
+      Magma Crab_46: 2109445744
+      Magma Crab_71: 1484143474
+      Magma Crab_11: -1974647343
+      Magma Crab_12: 1477171000
+      Magma Crab_13: -834908309
+      Magma Crab_55: 585210793
+      Magma Crab_32: 835730220
+      Magma Crab_51: 895745662
+      Magma Crab_24: 1453753085
+      Magma Crab_3: -221689312
+      Magma Crab_5: -292425294
+      Magma Crab_15: 1087769849
+      Magma Crab_34: 1599861156
+      Magma Crab_40: 541546630
+      Magma Crab_49: -1457840027
+      Magma Crab_60: -830621835
+      Magma Crab_4: 1522236952
+      Magma Crab_19: 1813073162
+      Magma Crab_59: 1250943046
+      Magma Crab_0: -1676252596
+      Magma Crab_36: 1294180647
+      Magma Crab_61: 1734502473
+      Magma Crab_38: -606196198
+      Magma Crab_72: 1993455269
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

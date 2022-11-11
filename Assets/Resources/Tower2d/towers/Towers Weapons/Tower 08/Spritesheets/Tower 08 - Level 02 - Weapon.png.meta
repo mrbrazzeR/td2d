@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82a2ebfe77759747ab5ca5b53ca9793
+      internalID: 1706548854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8d332a60e06594f863c8ee77c70975
+      internalID: -327304708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b84e1eeef895044ac212d187255f0f
+      internalID: -947972231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e1b6fe16b69d41ad08980e583ecf0
+      internalID: -346598094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d627cb3b71b444e91330468464c46c
+      internalID: 1966695666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8282418330d61494eb9c738b8466644b
+      internalID: -166502091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c269630f01347a144981ff065a2fe8f3
+      internalID: -75388115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66569d962623c114a94f75eebe228fc2
+      internalID: -1235882907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0826076e79be4384ba9fcf9d4558cdd9
+      internalID: 936389204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 08 - Level 02 - Weapon_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1765424ffa0ac4eb005275350d8cfd
+      internalID: -2080588467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +360,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tower 08 - Level 02 - Weapon_0: 1706548854
+      Tower 08 - Level 02 - Weapon_9: -2080588467
+      Tower 08 - Level 02 - Weapon_5: -166502091
+      Tower 08 - Level 02 - Weapon_7: -1235882907
+      Tower 08 - Level 02 - Weapon_6: -75388115
+      Tower 08 - Level 02 - Weapon_3: -346598094
+      Tower 08 - Level 02 - Weapon_1: -327304708
+      Tower 08 - Level 02 - Weapon_2: -947972231
+      Tower 08 - Level 02 - Weapon_8: 936389204
+      Tower 08 - Level 02 - Weapon_4: 1966695666
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

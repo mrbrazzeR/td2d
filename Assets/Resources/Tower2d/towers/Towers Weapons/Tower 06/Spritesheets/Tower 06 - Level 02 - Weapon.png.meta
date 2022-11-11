@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,133 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tower 06 - Level 02 - Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2922a51f5db8c0e449328115d872da1e
+      internalID: 323556726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 06 - Level 02 - Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 30
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da54f6554932a46985970b033897de
+      internalID: -1703304828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 06 - Level 02 - Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 30
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030df04c847d5b8418160cf6ad3c14e6
+      internalID: -387787809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 06 - Level 02 - Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 30
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f97cd303f3e6841ad4a6677367da7f
+      internalID: 974446874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 06 - Level 02 - Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 30
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a28529431ce53a4aa39948aa12992f6
+      internalID: -191986965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 06 - Level 02 - Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 30
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f634be00fdd40af4396b22e482dc5880
+      internalID: 558762107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +276,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tower 06 - Level 02 - Weapon_3: 974446874
+      Tower 06 - Level 02 - Weapon_2: -387787809
+      Tower 06 - Level 02 - Weapon_4: -191986965
+      Tower 06 - Level 02 - Weapon_0: 323556726
+      Tower 06 - Level 02 - Weapon_1: -1703304828
+      Tower 06 - Level 02 - Weapon_5: 558762107
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

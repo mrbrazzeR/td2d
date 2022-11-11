@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,280 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tower - Collapse_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 80
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a84fac6ee2f3e849bda2811314d317a
+      internalID: 2003188700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 57
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ae019cfc9d288499f4e381d98ca3fb
+      internalID: 165312847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 50
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc822582a42dfc449d60a603cc98b7a
+      internalID: -516953612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 47
+        width: 153
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4768fe7dbde148a92af455996ad28
+      internalID: -1946741622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_4
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 46
+        width: 176
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce86dcf869e8af4fa388b71468dae36
+      internalID: -1415098081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_5
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 46
+        width: 188
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bfbe7e2aef31c44845adb9eb226dfd
+      internalID: -948432419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_6
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 42
+        width: 202
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840b23a2277cdf24a8730285683d4395
+      internalID: -1041606850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_7
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 39
+        width: 229
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2281fca22819954dbbc5bc62fc75b11
+      internalID: 472947958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_8
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 39
+        width: 244
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9796ce4e352fd4792a7ef940e3158f
+      internalID: -1750119590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_9
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 36
+        width: 251
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6ac72e271152b43bd076742b0be591
+      internalID: -1556430916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_10
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 29
+        width: 251
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f39aec4320ce64fbdda9dd83279a7f
+      internalID: -144078628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_14
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 34
+        width: 194
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea660204324f40439b473e6638b8606
+      internalID: 1939276127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower - Collapse_20
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 31
+        width: 286
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9956530a9bd8247a5eb03fc6723f5d
+      internalID: 1578154844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +423,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tower - Collapse_9: -1556430916
+      Tower - Collapse_0: 2003188700
+      Tower - Collapse_14: 1939276127
+      Tower - Collapse_11: -772155225
+      Tower - Collapse_16: 465886474
+      Tower - Collapse_12: -1717966631
+      Tower - Collapse_13: 2089055849
+      Tower - Collapse_22: -1279530922
+      Tower - Collapse_7: 472947958
+      Tower - Collapse_20: 1578154844
+      Tower - Collapse_17: -1023036568
+      Tower - Collapse_8: -1750119590
+      Tower - Collapse_15: -928609561
+      Tower - Collapse_19: 780238881
+      Tower - Collapse_6: -1041606850
+      Tower - Collapse_18: 180878250
+      Tower - Collapse_21: -890243143
+      Tower - Collapse_3: -1946741622
+      Tower - Collapse_4: -1415098081
+      Tower - Collapse_5: -948432419
+      Tower - Collapse_1: 165312847
+      Tower - Collapse_2: -516953612
+      Tower - Collapse_10: -144078628
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tower 07 - Level X - Projectile_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7178108e3c9bba48984201051158c60
+      internalID: -1745230076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level X - Projectile_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab84d11efeecec4486c973550dd028a
+      internalID: 299840437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level X - Projectile_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4117ac471ca2c45a77edd0ad1fc459
+      internalID: -1100163681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level X - Projectile_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1881aa894595645b40a5281cd849a6
+      internalID: -435099539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level X - Projectile_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e449c113169b4c40abd9807229b73a4
+      internalID: -2104613037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level X - Projectile_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de8e88ee21e5c944aa2827f87fead04
+      internalID: -214597355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level X - Projectile_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8a671dc3f88584c964b635013652b7
+      internalID: 899597996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level X - Projectile_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6422e803da4b8478120ef843525e26
+      internalID: 1830705978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +318,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tower 07 - Level X - Projectile_7: 1830705978
+      Tower 07 - Level X - Projectile_2: -1100163681
+      Tower 07 - Level X - Projectile_0: -1745230076
+      Tower 07 - Level X - Projectile_1: 299840437
+      Tower 07 - Level X - Projectile_5: -214597355
+      Tower 07 - Level X - Projectile_4: -2104613037
+      Tower 07 - Level X - Projectile_6: 899597996
+      Tower 07 - Level X - Projectile_3: -435099539
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

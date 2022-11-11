@@ -74,7 +74,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: -2104197812, guid: e3c38e1e18c84584aa84901549691ffe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -113,6 +113,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3987575212963804065}
     m_Modifications:
+    - target: {fileID: 3921499551631685761, guid: b1c97c6b46339ab47ba1434f9dc3b4d6, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3921499551631685762, guid: b1c97c6b46339ab47ba1434f9dc3b4d6, type: 3}
       propertyPath: m_Name
       value: impact_thunder_lv1

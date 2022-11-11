@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,154 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tower 07 - Level 02 - Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90048e9342a3ca248b1d13d1abf853a8
+      internalID: -1415247269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level 02 - Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0494b6deb6c29c74885d2ccc7851f156
+      internalID: -63650052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level 02 - Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcaef7e10743374e92e6e28f3888e1d
+      internalID: 812030035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level 02 - Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de4b495d455c44a9be6004e91901ad
+      internalID: -2026800943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level 02 - Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bf0bce70aadaf46911707938a0f287
+      internalID: 1123074748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level 02 - Weapon_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a8a890b016ff4284b5f08b3876cba
+      internalID: -1692717839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 07 - Level 02 - Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4d92e5bb0d5434baaf21f3893e3776
+      internalID: 749152242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +297,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tower 07 - Level 02 - Weapon_5: 1123074748
+      Tower 07 - Level 02 - Weapon_0: -1415247269
+      Tower 07 - Level 02 - Weapon_3: -2026800943
+      Tower 07 - Level 02 - Weapon_6: -1692717839
+      Tower 07 - Level 02 - Weapon_1: -63650052
+      Tower 07 - Level 02 - Weapon_2: 812030035
+      Tower 07 - Level 02 - Weapon_4: 749152242
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

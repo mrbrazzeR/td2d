@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,112 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tower 05 - Level 01 - Projectile - Impact_0
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd9e858c02d1494fb945020a190ca4b
+      internalID: -1030125428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 01 - Projectile - Impact_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd53ece427835f45bf09034df11576c
+      internalID: -859146274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 01 - Projectile - Impact_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355690e42ae6a3f4fa4ec09a6e7c10a2
+      internalID: 1160101056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 01 - Projectile - Impact_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c916d32d3305f74cbc89eb2053f203a
+      internalID: -609038209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 01 - Projectile - Impact_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 20
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eccf729d8978e34e8184a2db3e0d290
+      internalID: -1674147848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +255,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tower 05 - Level 01 - Projectile - Impact_3: -1982766380
+      Tower 05 - Level 01 - Projectile - Impact_1: -802780802
+      Tower 05 - Level 01 - Projectile - Impact_12: 561963309
+      Tower 05 - Level 01 - Projectile - Impact_5: 668540233
+      Tower 05 - Level 01 - Projectile - Impact_11: -2145365497
+      Tower 05 - Level 01 - Projectile - Impact_0: -1030125428
+      Tower 05 - Level 01 - Projectile - Impact_10: -976291697
+      Tower 05 - Level 01 - Projectile - Impact_13: -727251023
+      Tower 05 - Level 01 - Projectile - Impact_8: -1674147848
+      Tower 05 - Level 01 - Projectile - Impact_2: -859146274
+      Tower 05 - Level 01 - Projectile - Impact_4: 1160101056
+      Tower 05 - Level 01 - Projectile - Impact_6: -609038209
+      Tower 05 - Level 01 - Projectile - Impact_7: 1589749630
+      Tower 05 - Level 01 - Projectile - Impact_9: -1716395019
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
