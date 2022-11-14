@@ -1,6 +1,6 @@
 ﻿namespace Utils
 {
-    public static class MovingType
+    public static class MovingUtils
     {
         public const string Down = "down";
         public const string Up = "up";

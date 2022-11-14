@@ -1,7 +1,8 @@
 ﻿namespace Utils
 {
-        public static class EnemyUtils
+        public static class TagUtils
         {
                 public const string EnemyTag = "Enemy";
+                public const string EndTag = "EndTarget";
         }
 }

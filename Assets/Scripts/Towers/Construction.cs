@@ -4,16 +4,16 @@ using Utils;
 
 namespace Towers
 {
-    public class Contruction:MonoBehaviour,ITower
+    public class Construction:MonoBehaviour,ITower
     {
         [SerializeField]private Animator animator;
-        
+        public bool active;
 
         public void SetAnimator(int level)
         {
             animator.SetInteger(AnimationUtils.Level,level);
         }
-        public bool active;
+
         public void TowerSetActive()
         {
             gameObject.SetActive(true);
@@ -25,5 +25,6 @@ namespace Towers
             gameObject.SetActive(false);
             active = false;
         }
+
     }
 }

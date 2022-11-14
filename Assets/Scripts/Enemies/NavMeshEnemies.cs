@@ -1,5 +1,7 @@
+using System;
 using UnityEngine;
 using UnityEngine.AI;
+using Utils;
 
 namespace Enemies
 {
@@ -13,6 +15,11 @@ namespace Enemies
             navMeshAgent = GetComponent<NavMeshAgent>();
             navMeshAgent.updateRotation = false;
             navMeshAgent.updateUpAxis = false;
+        }
+
+        private void OnEnable()
+        {
+            target = GameObject.FindGameObjectWithTag(TagUtils.EndTag).transform;
         }
 
         // Update is called once per frame

@@ -1,7 +1,16 @@
-﻿namespace Enemies
+﻿using UnityEngine;
+using Utils;
+
+namespace Enemies
 {
-    public class ClampBettle
+    public class ClampBeetle: Enemy, IEnemy
     {
+        public ClampBeetle()
+        {
+            health = 50;
+            enemyType = EnemyType.Flying;
+           
+        }
         
     }
 }
