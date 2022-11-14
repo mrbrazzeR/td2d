@@ -18,5 +18,10 @@ namespace Towers
             rb.rotation = angle-180f;
             lookDir.Normalize();
         }
+
+        private void FollowEnemy()
+        {
+            
+        }
     }
 }
